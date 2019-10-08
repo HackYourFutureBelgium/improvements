@@ -1,0 +1,1 @@
+moving forward, how can we [recognize all contributors](https://github.com/all-contributors/all-contributors)?  in a separate repo dedicated to all contributions?  This makes sense since otherwise the content is very scattered and it's easy to get lost.
