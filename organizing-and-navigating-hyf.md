@@ -3,7 +3,7 @@ There's a lot of repos and a lot of resources, there is probably no way around t
 ---
 
 a more effective way of organizing content & assignments in module repositories.  here's an idea to take as a starting point:
-* how the new repos are organized for [html/css/github](https://github.com/be-hacking-hyf/html-css-github/wiki/Navigating-this-repo) and [js 1](https://github.com/be-hacking-hyf/javascript-1/wiki/Navigating-this-repo)
+* check out [demo-repo](https://github.com/be-hacking-hyf/demo-repo) for more detailed thoughts on this
 
 Standardized week roles? would it work to have a standardized goal for each week across all modules. something like:
 1. what is this new thing and why is it helpful? - spend time in class doing little exercises to get the feel for the first week's homework and the new tools/techniques
