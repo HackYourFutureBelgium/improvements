@@ -130,7 +130,7 @@ Summary
 
 Learning Objectives
 * frontend build scripts
-* intro to frontend frameworks (hyperapp with built-in logging?)
+* intro to frontend frameworks (hyperapp with built-in logging -> elm architecture)
 
 ## module 9: projecting (5 weeks)
 
