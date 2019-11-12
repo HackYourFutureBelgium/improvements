@@ -18,6 +18,7 @@ __Class Materials__
 * [homework submission and tracking](./homework-submission-and-tracking.md)
 * [organizing and navigating HYF](./organizing-and-navigating-hyf.md)
 * [using github classroom](./using-github-classroom)
+* a centralized place for helpful resources: [here?](https://github.com/HackYourFutureBelgium/fundamentals)
 
 __More Generally__
 * [make coaching easy](./make-coaching-easy.md)
