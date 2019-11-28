@@ -12,7 +12,6 @@ Feel free to open an issue or send a pull request, tag someone to discuss about 
 __Reimagining HYF__
 * [learning is not linear](./learning-is-not-linear.md)
 * [the users](./the-users.md)
-* [redefine the modules](./redefine-the-modules.md)
 
 __Class Materials__
 * [homework submission and tracking](./homework-submission-and-tracking.md)
