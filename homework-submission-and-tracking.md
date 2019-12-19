@@ -1,3 +1,5 @@
+> update: [homework submission repository](https://github.com/hackyourfuturebelgium/homework-submission) & [class repo template](https://github.com/hackyourfuturebelgium/class-repo-template)
+
 how should these process work?
 * for students
 * for coaches
