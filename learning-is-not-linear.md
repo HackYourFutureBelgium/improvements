@@ -1,3 +1,5 @@
+> update: modules with names and objectives that describe general competencies & project complexity instead of particular technologies - [curriculum gitbook](https://curriculum.hackyourfuture.be)
+
 Hello Evan, I went over that circular learning thing and tried to word it to better communicate it. Not as easy as I hoped :stuck_out_tongue:
 Basically to communicate it, I find the main points of the idea are as follow:
 What problems does it try to solve?
