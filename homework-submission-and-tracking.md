@@ -1,4 +1,4 @@
-> update: [homework submission repository](https://github.com/hackyourfuturebelgium/homework-submission) & [class repo template](https://github.com/hackyourfuturebelgium/class-repo-template)
+> update: [homework submission repository](https://github.com/hackyourfuturebelgium/homework-submission)
 
 how should these process work?
 * for students

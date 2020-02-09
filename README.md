@@ -10,16 +10,14 @@ Feel free to open an issue or send a pull request, tag someone to discuss about 
 ---
 
 __Reimagining HYF__
+* [how to reach absolute beginners](./reaching-absolute-beginners.md)
 * [learning is not linear](./learning-is-not-linear.md)
 * [the users](./the-users.md)
 
-__Class Materials__
+__Processes & Methodologies__
+* [best use of Sunday class](./best-use-of-sunday-class.md)
 * [homework submission and tracking](./homework-submission-and-tracking.md)
 * [organizing and navigating HYF](./organizing-and-navigating-hyf.md)
-* [using github classroom](./using-github-classroom)
-* a centralized place for helpful resources: [here?](https://github.com/HackYourFutureBelgium/fundamentals)
-
-__More Generally__
 * [make coaching easy](./make-coaching-easy.md)
 * [recognizing contributors](./recognizing-contributors.md)
 

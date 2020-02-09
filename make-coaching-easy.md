@@ -1,4 +1,4 @@
-> updates: [coach handbook (work in progress) with multiple roles](https://github.com/hackyourfuturebelgium/coach-handbook), [a more accessible homework submission process](https://github.com/hackyourfuturebelgium/homework-submission), [minimal class overview dashboard](https://hackyourfuturebelgium.github.io/class-repo-template)
+> updates: [coach handbook (work in progress) with multiple roles](https://github.com/hackyourfuturebelgium/coach-handbook), [a more accessible homework submission process](https://github.com/hackyourfuturebelgium/homework-submission), [minimal class overview dashboard](https://hackyourfuturebelgium.github.io/class-8)
 
 how can coaching be as accessible as possible?
 

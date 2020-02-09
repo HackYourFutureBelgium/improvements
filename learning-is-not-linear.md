@@ -32,3 +32,4 @@ Agile learning (or whatever):
 __visualized__
 
 is there a clear visualization of what this looks like that could be used for students to see where they're headed and how far they are?
+* a possibility would be a diagram of fullstack web apps that is introduced at the beginning, and each module highlights one part of the diagram.  students can see their understanding of the whole diagram filling out over time
