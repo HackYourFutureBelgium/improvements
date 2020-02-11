@@ -13,3 +13,8 @@ Possibilities
 * many "easy" practice problems over the week, then do harder ones together in class to see the skills come together
 * first half of class is dedicated to review and connecting last week's material, the second half is to start the next week's project together
 
+---
+
+__Flipping Class?__ 
+
+* [there's an issue for this](https://github.com/HackYourFutureBelgium/improvements/issues/8)
