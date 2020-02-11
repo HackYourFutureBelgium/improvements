@@ -1,5 +1,7 @@
 How do we best address absolute beginners with the first module of JS?
 
+> there should be another module in the beginning about running js without DOM or full websites, focus on syntax & stepping through with debuggers: [new module in curriculum repo (branch 9-10](https://github.com/HackYourFutureBelgium/curriculum/blob/9-10/02-testing-and-debugging.md)
+
 right now the class isn't working well for the student who need it most.  students who have experience or learn programming quickly will learn as long as we do a good enough job.  students with no experience or who struggle to get traction at the beginning will suffer if we don't get the first steps just right.  So we should tailor everything towards them and can always throw challenges at the more advanced students.
 
 common sticking-points for brand new students:
